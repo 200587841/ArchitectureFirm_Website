@@ -1,6 +1,8 @@
 # main-project
 Group Assignment - CSS
 
+
+
 **TASKS:**
 
 Design - Natalia
@@ -24,9 +26,13 @@ Footer - André
 Nav - Lucas
 
 
+
+
 **-Instagram,Facebook and Pinterest Logo for the footer:**	
 
 Already in the images folder
+
+
 
 **- Images for the PROJECT PAGE:**	
 
