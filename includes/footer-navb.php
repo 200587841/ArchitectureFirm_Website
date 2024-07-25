@@ -1,12 +1,13 @@
 <footer class="black-footer">
     <div class="footer-content">
-        <p>123, Anywhere Dr, Canada | (123) 456-7890 | contact@alns.ca</p>
+        123, Anywhere Dr, Canada | (123) 456-7890 | contact@alns.ca
         <div class="social-icons">
-            <a href="#"><img src="fb-b.svg" alt="Facebook"></a>
-            <a href="#"><img src="inst-b" alt="Instagram"></a>
-            <a href="#"><img src="pin-b" alt="Pinterest"></a>
+            <a href="#"><img src="images/fb-b.svg" alt="Facebook"></a>
+            <a href="#"><img src="images/inst-b.svg" alt="Instagram"></a>
+            <a href="#"><img src="images/pin-b.svg" alt="Pinterest"></a>
         </div>
     </div>
+</div>
 </footer>
 </body>
 </html>
