@@ -22,7 +22,7 @@
 
 <footer>
     <?php
-    include 'includes/footer-nav.php';
+    include 'includes/footer-navg.php';
     ?>
 </footer>
 
