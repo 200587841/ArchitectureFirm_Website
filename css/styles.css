@@ -23,6 +23,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+    padding-bottom: 60px; /* Adjust based on footer height */
 }
 
 .body img {
@@ -31,8 +32,13 @@ body {
 }
 
 footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
     padding: 20px 0;
     text-align: center;
+    background-color: #8EBF42; /* Default to green-footer color */
+    color: white;
 }
 
 .footer-content {
