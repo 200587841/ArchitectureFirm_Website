@@ -31,6 +31,43 @@ body {
     height: auto;
 }
 
+.top-box {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.bottom-box {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.top-box .column, .bottom-box .column {
+    flex: 1;
+    margin: 0 10px;
+    text-align: center;
+}
+
+.center-title {
+    flex-basis: 100%;
+    text-align: center;
+}
+
+.top-box .column p {
+    margin-top: 10px;
+}
+
+.bottom-box .column img {
+    max-width: 125%;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+}
+
+.title-about {
+    padding-top: 15%;
+}
 footer {
     position: fixed;
     bottom: 0;
