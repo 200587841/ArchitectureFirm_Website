@@ -12,45 +12,45 @@
 </head>
 
 <body>
-    <div id="navbar">
+    <div id="my-navbar">
         <?php include 'includes/global-nav.php'; ?>
     </div>
     
     <main>
-        <section class="projects">
-            <div class="project">
+        <section class="my-projects">
+            <div class="my-project">
                 <img src="img/project1.png" alt="Project 1">
-                <div class="overlay">
+                <div class="my-overlay">
                     <p>Casa da Mangueira</p>
                 </div>
             </div>
-            <div class="project">
+            <div class="my-project">
                 <img src="img/project2.png" alt="Project 2">
-                <div class="overlay">
+                <div class="my-overlay">
                     <p>Hammok House</p>
                 </div>
             </div>
-            <div class="project">
+            <div class="my-project">
                 <img src="img/project3.png" alt="Project 3">
-                <div class="overlay">
+                <div class="my-overlay">
                     <p>LEnS House</p>
                 </div>
             </div>
-            <div class="project">
+            <div class="my-project">
                 <img src="img/project4.png" alt="Project 4">
-                <div class="overlay">
+                <div class="my-overlay">
                     <p>Casa do Parque House</p>
                 </div>
             </div>
-            <div class="project">
+            <div class="my-project">
                 <img src="img/project5.png" alt="Project 5">
-                <div class="overlay">
+                <div class="my-overlay">
                     <p>3V House</p>
                 </div>
             </div>
-            <div class="project">
+            <div class="my-project">
                 <img src="img/project6.png" alt="Project 6">
-                <div class="overlay">
+                <div class="my-overlay">
                     <p>Mipibu House</p>
                 </div>
             </div>
@@ -63,3 +63,4 @@
 </body>
 
 </html>
+
