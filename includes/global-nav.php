@@ -1,10 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <link rel="stylesheet" type="text/css" href="css/style.css">
+<link rel="stylesheet" href="./css/styles.css">
 </head>
 <body>
-    <header>
+    <header id="navbar">
+        <div class="logo">
+        <a href="#"><img src="images/logo.png" alt="Logo"></a>
+        </div>
         <nav>
             <ul>
                 <li><a href="home.php">HOME</a></li>
@@ -14,3 +17,5 @@
             </ul>
         </nav>
     </header>
+</body>
+</html>
