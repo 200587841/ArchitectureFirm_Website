@@ -11,7 +11,7 @@
 </head>
 
 <body>
-    <div id="my-navbar">
+    <div id="navbar">
         <?php include 'includes/global-nav.php'; ?>
     </div>
     
