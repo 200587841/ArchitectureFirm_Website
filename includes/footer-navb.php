@@ -7,5 +7,4 @@
             <a href="#"><img src="images/pin-b.svg" alt="Pinterest"></a>
         </div>
     </div>
-</div>
 </footer>
