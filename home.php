@@ -13,17 +13,19 @@
 </head>
 
 <body>
+    <header>
     <div id="navbar">
         <?php
         include 'includes/global-nav.php';
         ?>
     </div>
-</body>
+<header>
 
-<footer>
+    <footer>
     <?php
     include 'includes/footer-navb.php';
     ?>
-</footer>
+    </footer>
+</body>
 
 </html>
