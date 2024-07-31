@@ -74,7 +74,7 @@ footer {
     width: 100%;
     padding: 20px 0;
     text-align: center;
-    background-color: #8EBF42; /* Default to green-footer color */
+    background-color: #A4AC58; /* Default to green-footer color */
     color: white;
 }
 
@@ -156,7 +156,7 @@ footer {
     display: flex;
     justify-content: space-between;
     padding: 50px;
-    background-color: #C1C98C;
+    background-color: #A4AC58;
     border-radius: 10px;
     margin: 20px;
 }
@@ -206,7 +206,7 @@ footer {
 .contact-form button {
     padding: 15px;
     border: none;
-    background-color: #7A8A3B;
+    background-color: #A4AC58;
     color: #fff;
     font-size: 18px;
     font-weight: bold;
