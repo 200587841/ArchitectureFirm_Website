@@ -13,11 +13,13 @@
 </head>
 </head>
 <body>
+    <header>
 <div id="navbar">
         <?php
         include 'includes/global-nav.php';
         ?>
     </div>
+        </header>
 
     <section class="contact-section">
         <div class="contact-info">
