@@ -11,9 +11,11 @@
 </head>
 
 <body>
+    <header>
     <div id="navbar">
         <?php include 'includes/global-nav.php'; ?>
     </div>
+    </header>
     
     <main>
         <section class="my-projects">
