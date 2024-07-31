@@ -1,6 +1,5 @@
 @charset "UTF-8";
 
-
 /* 
 PROJECT COLORS:
 Green: #A4AC58
@@ -12,9 +11,6 @@ Black
 html {
     font-family: "Montserrat", sans-serif;
     font-weight: 300;
-}
-
-html {
     height: 100%;
     margin: 0;
 }
@@ -22,7 +18,6 @@ html {
 h1 {
     font-size: 2.5rem;
 }
-
 
 /* Home  ----------- */
 .home-bg {
@@ -47,7 +42,6 @@ h1 {
 .green-bg {
     background-color: #A4AC58;
 }
-
 
 /* Footer  ----------- */
 footer {
@@ -87,7 +81,6 @@ footer {
     background-color: black;
 }
 
-
 /* Navbar  ----------- */
 #navbar {
     display: flex;
@@ -110,8 +103,6 @@ footer {
 #navbar nav {
     flex: 1;
     display: flex;
-    margin-left: 0%;
-    margin-right: px;
     justify-content: flex-end;
 }
 
@@ -128,14 +119,12 @@ footer {
     color: #000;
     text-decoration: none;
     padding: 1px 10px;
-
 }
 
 #navbar nav ul li a.active,
 #navbar nav ul li a:hover {
     border-bottom: 2px solid #000;
 }
-
 
 /* About Us Page  ----------- */
 .top-box {
@@ -166,7 +155,6 @@ footer {
     padding: 0 1%;
 }
 
-
 /* Project Page ----------- */
 .my-projects {
     display: grid;
@@ -194,7 +182,6 @@ footer {
     width: 100%;
     height: 100%;
     background-color: #bfcc6c90;
-    /* Green color with transparency */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -211,7 +198,6 @@ footer {
 .my-project:hover .my-overlay {
     opacity: 1;
 }
-
 
 /* Contact Page ----------- */
 .contact-section {
@@ -259,7 +245,6 @@ footer {
     background-color: #fff;
 }
 
-/* Gives more space to the input 'message' */
 .contact-form textarea {
     resize: vertical;
     height: 130px;
@@ -297,4 +282,82 @@ footer {
 .contact-info .icon+br+span+br+span,
 .contact-info .icon+br+span+br+span+br+span {
     color: #fff;
+}
+
+/* Media Queries for Responsiveness */
+@media (max-width: 1200px) {
+    .top-box, .bottom-box {
+        flex-direction: column;
+    }
+
+    .my-projects {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .contact-section {
+        flex-direction: column;
+        padding: 30px;
+    }
+
+    .contact-info, .contact-form {
+        max-width: 100%;
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
+@media (max-width: 768px) {
+    #navbar {
+        flex-direction: column;
+        padding: 10px 20px;
+    }
+
+    #navbar .logo {
+        margin-right: 0;
+    }
+
+    #navbar nav {
+        margin-left: 0;
+    }
+
+    .footer-content {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .contact-section {
+        padding: 20px;
+    }
+
+    .contact-info {
+        padding-top: 0;
+    }
+
+    .my-projects {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 480px) {
+    h1 {
+        font-size: 2rem;
+    }
+
+    .top-box .column p {
+        padding: 2%;
+    }
+
+    .footer-content {
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+
+    .contact-form input,
+    .contact-form textarea {
+        padding: 10px;
+    }
+
+    .contact-form button {
+        max-width: 80px;
+    }
 }
