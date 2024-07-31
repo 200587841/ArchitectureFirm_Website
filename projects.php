@@ -7,7 +7,6 @@
     <title>Project Showcase</title>
     <meta name="author" content="André Argiles Azoubel / Jhon Sebastian Reina Gomez / Lucas de Magalhaes e Castro / Natalia Selestrini Dias" />
     <meta name="description" content="Main Project: Selling Out!">
-    <link rel="shortcut icon" href="./images/logo.png" type="image/x-icon" />
     <link rel="stylesheet" href="./css/styles.css">
 </head>
 
