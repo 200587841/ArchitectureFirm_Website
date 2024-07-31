@@ -12,33 +12,34 @@
     <link rel="stylesheet" href="./css/styles.css">
 </head>
 
-<body>
-    <header>
+<body class="white-bg">
     <div id="navbar">
         <?php
         include 'includes/global-nav.php';
         ?>
     </div>
-    </header>
-
     <section class="about-us-section">
         <div class="top-box">
             <div class="column">
                 <div class="title-about">
-                <h1>ABOUT US</h1>
+                    <h1>ABOUT US</h1>
                 </div>
             </div>
             <div class="column">
-                <h1>&nbsp;</h1> <!-- Empty h1 to align text vertically -->
                 <p>
-                    Our signature color green symbolizes our commitment to sustainable development. At Alns, great architecture is sustainable architecture. Join us in building a greener world, one project at a time.
-                    Welcome to Alns, where innovation meets sustainability. We create architectural marvels that harmonize with the environment, with sustainability at the heart of everything we do.             
+                    Our signature color green symbolizes our commitment to sustainable development. At Alns, great
+                    architecture is sustainable architecture. Join us in building a greener world, one project at a
+                    time.
+                    Welcome to Alns, where innovation meets sustainability. We create architectural marvels that
+                    harmonize with the environment, with sustainability at the heart of everything we do.
                 </p>
             </div>
             <div class="column">
-                <h1>&nbsp;</h1> <!-- Empty h1 to align text vertically -->
                 <p>
-                Alns combines cutting-edge technology with eco-friendly practices, minimizing ecological footprints and maximizing energy efficiency. Our projects span residential, commercial, and industrial sectors, providing innovative solutions that meet the highest standards of quality and sustainability. Join us on a journey to a better, greener future.
+                    Alns combines cutting-edge technology with eco-friendly practices, minimizing ecological footprints
+                    and maximizing energy efficiency. Our projects span residential, commercial, and industrial sectors,
+                    providing innovative solutions that meet the highest standards of quality and sustainability. Join
+                    us on a journey to a better, greener future.
                 </p>
             </div>
         </div>
@@ -56,10 +57,10 @@
     </section>
 
     <footer>
-    <?php
-    include 'includes/footer-navg.php';
-    ?>
-</footer>
+        <?php
+        include 'includes/footer-navg.php';
+        ?>
+    </footer>
 </body>
 
 </html>
