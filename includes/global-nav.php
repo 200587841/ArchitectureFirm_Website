@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<link rel="stylesheet" href="./css/styles.css">
-</head>
-<body>
-    <header id="navbar">
+Ï   <header id="navbar">
         <div class="logo">
         <a href="#"><img src="images/logo.png" alt="Logo"></a>
         </div>
@@ -16,6 +10,3 @@
                 <li><a href="contact.php">CONTACT</a></li>
             </ul>
         </nav>
-    </header>
-</body>
-</html>
