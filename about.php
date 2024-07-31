@@ -13,11 +13,14 @@
 </head>
 
 <body>
+    <header>
     <div id="navbar">
         <?php
         include 'includes/global-nav.php';
         ?>
     </div>
+    </header>
+
     <section class="about-us-section">
         <div class="top-box">
             <div class="column">
@@ -51,12 +54,12 @@
             </div>
         </div>
     </section>
-</body>
 
-<footer>
+    <footer>
     <?php
     include 'includes/footer-navg.php';
     ?>
 </footer>
+</body>
 
 </html>
