@@ -1,6 +1,6 @@
 # Architecture Firm Website
 
-Website developed by my group to demonstrate CSS skills. *Languages: HTML + CSS + PHP
+Website developed by my group to demonstrate CSS skills.
 
 
 
