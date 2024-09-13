@@ -1,4 +1,4 @@
-# main-project
+# Architecture_Website
 
 Website developed by my group to demonstrate CSS skills. *Languages: HTML + CSS + PHP
 
