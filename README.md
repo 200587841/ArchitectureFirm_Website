@@ -1,7 +1,9 @@
 # Architecture Firm Website
 
 Website developed by my group to demonstrate CSS skills.
-Presentation: https://www.canva.com/design/DAGMdDvRUNY/vuCPeM_bjOtfy6orgJxoBQ/edit?utm_content=DAGMdDvRUNY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+- **PRESENTATION:**
+https://www.canva.com/design/DAGMdDvRUNY/vuCPeM_bjOtfy6orgJxoBQ/edit?utm_content=DAGMdDvRUNY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 - **TASKS:**
