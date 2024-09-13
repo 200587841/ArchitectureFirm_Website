@@ -1,36 +1,27 @@
 # main-project
-Group Assignment - CSS
+
+Website developed by my group to demonstrate CSS skills. *Languages: HTML + CSS + PHP
 
 
 
 **TASKS:**
 
-Design - Natalia
+Design - Natalia S Dias
 
-Home Page - Natalia
+Home Page - Natalia S Dias
 
-About us Page - Lucas
+About us Page - Lucas de Magalhaes e Castro
 
-Projects Page - Jhon
+Projects Page - Jhon Sebastian Reina Gomez
 
-Contact Page - André
+Contact Page - André Argiles Azoubel
 
 CSS - All
 
-Presentation - Natalia
+Presentation - Natalia S Dias
 
-Join and review - Natalia
+Join and review - Natalia S Dias
 
-Footer - André
+Footer - André Argiles Azoubel
 
-Nav - Lucas
-
-**- Images on the PROJECT PAGE:**	
-
-https://www.archdaily.com/963587/casa-da-mangueira-alan-chu/60cbe62bf91c815f6b000081-casa-da-mangueira-alan-chu-photo
-https://www.archdaily.com/783827/galeria-claudia-andujar-arquitetos-associados/56e7e997e58ece7ee000006f-galeria-claudia-andujar-arquitetos-associados-photo
-https://www.archdaily.com/802153/lens-house-obra-arquitetos/585cad0ae58ece953e000389-lens-house-obra-arquitetos-photo
-https://www.archdaily.com/978952/casa-do-parque-house-sidney-quintela-architecture-plus-urban-planning/623a2f369d5a91041bae12e3-casa-do-parque-house-sidney-quintela-architecture-plus-urban-planning-photo
-https://www.archdaily.com/934789/3v-house-studio-mk27/5e5d29096ee67e88ef000264-3v-house-studio-mk27-photo
-https://www.archdaily.com/790794/mipibu-house-terra-e-tuma/577ba844e58ece621b0000d1-mipibu-house-terra-e-tuma-photo
-
+Nav - Lucas de Magalhaes e Castro
