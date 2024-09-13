@@ -25,16 +25,7 @@ Footer - André
 
 Nav - Lucas
 
-
-
-
-**-Instagram,Facebook and Pinterest Logo for the footer:**	
-
-Already in the images folder
-
-
-
-**- Images for the PROJECT PAGE:**	
+**- Images on the PROJECT PAGE:**	
 
 https://www.archdaily.com/963587/casa-da-mangueira-alan-chu/60cbe62bf91c815f6b000081-casa-da-mangueira-alan-chu-photo
 https://www.archdaily.com/783827/galeria-claudia-andujar-arquitetos-associados/56e7e997e58ece7ee000006f-galeria-claudia-andujar-arquitetos-associados-photo
